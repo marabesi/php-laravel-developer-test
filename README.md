@@ -4,10 +4,10 @@
 
 The problem to solve is a management of books into a library. As a library admin, I want to be able to:
 
-- Create, update and delete a book entry.
-- Create, update and delete a category entry.
-- Create, update and delete a author entry.
-- List books by category and author.
+- Create, update and delete a book entry
+- Create, update and delete a category entry
+- Create, update and delete an author entry
+- List books by category and author
 
 ## Technical Requirements
 
@@ -26,10 +26,10 @@ The problem to solve is a management of books into a library. As a library admin
 5. Use a CSS library to make some styles and demonstrate responsive design
 
 ### Others
-* Source code must be stored in git repository (you can send it as github or bitbucket link, dropbox/google drive public folder, etc. NOTE: email servers will reject .zip files with source code)
-* Candidates are free to use any libraries, however the prerequisites of this challenge is to incorporate Laravel's framework as part of your solution.
+* Source code must be stored in git repository (you can send it as github or bitbucket link, dropbox/google drive public folder, etc. NOTE: our email servers will reject .zip files with source code)
+* Candidates are free to use any libraries, however the prerequisites of this challenge is to incorporate Laravel's framework as part of your solution
 * Implement unit tests to test features
 * Follow language specific style guidelines (`phplint`, `jslint`, etc.)
 
 ## What we expect from you?
-Production ready solution that you are proud of.
+Production ready solution that you are proud of
