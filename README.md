@@ -14,7 +14,7 @@ The problem to solve is a management of books into a library. As a library admin
 ### Backend
 1. CRUD for books, author, category using REST API.
 2. Validate request parameters
-3. Using MongoDB database to store data
+3. Using MongoDB or MySQL database to store data
 
 ### Frontend
 1. Allow to select author in book creation from an existent list.
@@ -23,7 +23,7 @@ The problem to solve is a management of books into a library. As a library admin
 4. Use HTTP request to access the REST API.
 
 ### Others
-* Source code must be stored in git repository (you can send it as github or bitbucket link, dropbox/google drive public folder, etc. NOTE: our email servers will reject .zip files with source code)
+* All source code (including database scripts) must be stored in git repository (you can send it as github or bitbucket link, dropbox/google drive public folder, etc. NOTE: our email servers will reject .zip files with source code)
 * Candidates are free to use any libraries, however the prerequisites of this challenge is to incorporate Laravel's framework as part of your solution
 * Implement unit tests where necessary
 * Follow language specific style guidelines (`phplint`, `jslint`, etc.)
